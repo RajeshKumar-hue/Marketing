@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="live_feed=true" audit="true" extends="task" label="Artwork" max_length="40" name="x_359413_marketing_artwork" sizeclass="11" type="collection">
+        <element choice="1" label="Edits needed" max_length="40" name="edits_needed" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="150" value="no"/>
+            </choice>
+        </element>
+        <element label="Feedback" max_length="1000" name="feedback" type="string"/>
+        <element choice="1" label="Category" mandatory="true" max_length="40" name="nature" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Flyers" sequence="100" value="flyers"/>
+                <element inactive_on_update="false" label="Posters" sequence="101" value="Posters"/>
+                <element inactive_on_update="false" label="Brochures" sequence="103" value="brochures"/>
+                <element inactive_on_update="false" label="Leaflets" sequence="104" value="leaflets"/>
+                <element inactive_on_update="false" label="Staff Uniform" sequence="104" value="staff_uniform"/>
+                <element inactive_on_update="false" label="Emailers" sequence="105" value="emailers"/>
+                <element inactive_on_update="false" label="Glass Strickers" sequence="106" value="glass strickers"/>
+            </choice>
+        </element>
+        <element choice="1" label="Payment" max_length="40" name="payment" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="No" sequence="150" value="2"/>
+            </choice>
+        </element>
+        <element choice="3" default="no" label="Reorder" mandatory="true" max_length="40" name="reorder" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Yes" sequence="100" value="yes"/>
+                <element inactive_on_update="false" label="No" sequence="200" value="no"/>
+            </choice>
+        </element>
+        <element choice="3" label="Request Type" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="New Image from stock" sequence="100" value="1"/>
+                <element inactive_on_update="false" label="Edits on creatives" sequence="105" value="2"/>
+                <element inactive_on_update="false" label="Edits on photos" sequence="108" value="3"/>
+            </choice>
+        </element>
+    </element>
+</database>

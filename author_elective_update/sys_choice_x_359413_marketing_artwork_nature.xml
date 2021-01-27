@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="nature" table="x_359413_marketing_artwork" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>nature</element>
+            <name>x_359413_marketing_artwork</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:13:34</sys_created_on>
+            <sys_id>ce5faf3fdbf52890f4277b823996196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>nature</sys_name>
+            <sys_package display_value="Marketing" source="x_359413_marketing">28bea77bdbf52890f4277b82399619ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing">28bea77bdbf52890f4277b82399619ab</sys_scope>
+            <sys_update_name>sys_choice_x_359413_marketing_artwork_nature</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-26 12:13:34</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Flyers</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:13:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>424f6f3fdbf52890f4277b823996199f</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-01-26 13:43:30</sys_updated_on>
+            <value>flyers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Posters</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>101</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:59:01</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>00b9f737db392890f4277b823996192f</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-01-26 13:45:51</sys_updated_on>
+            <value>Posters</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Brochures</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>103</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:13:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>325fab3fdbf52890f4277b8239961909</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-01-26 13:45:58</sys_updated_on>
+            <value>brochures</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Leaflets</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>104</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:14:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>818fa77bdbf52890f4277b823996197a</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-01-26 13:46:24</sys_updated_on>
+            <value>leaflets</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Staff Uniform</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>104</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:59:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7ed93b37db392890f4277b8239961918</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-01-26 13:46:05</sys_updated_on>
+            <value>staff_uniform</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Emailers</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>105</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:14:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ab6f633fdbf52890f4277b82399619b7</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-01-26 13:44:42</sys_updated_on>
+            <value>emailers</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>nature</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Glass Strickers</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>106</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:59:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>30c9f737db392890f4277b8239961932</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>abraham.lincoln</sys_updated_by>
+            <sys_updated_on>2021-01-26 13:46:32</sys_updated_on>
+            <value>glass strickers</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="edits_needed" table="x_359413_marketing_artwork" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>edits_needed</element>
+            <name>x_359413_marketing_artwork</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 08:41:36</sys_created_on>
+            <sys_id>c36804d4dbc26890f4277b8239961981</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>edits_needed</sys_name>
+            <sys_package display_value="Marketing" source="x_359413_marketing">28bea77bdbf52890f4277b82399619ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing">28bea77bdbf52890f4277b82399619ab</sys_scope>
+            <sys_update_name>sys_choice_x_359413_marketing_artwork_edits_needed</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 08:41:36</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>edits_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Yes</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 08:41:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a75804d4dbc26890f4277b8239961907</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 08:41:36</sys_updated_on>
+            <value>yes</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>edits_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>No</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>150</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-27 08:41:51</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>f478c0d4dbc26890f4277b8239961941</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 08:41:51</sys_updated_on>
+            <value>no</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

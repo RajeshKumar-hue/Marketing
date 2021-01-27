@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="request_type" table="x_359413_marketing_artwork" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>request_type</element>
+            <name>x_359413_marketing_artwork</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:19:07</sys_created_on>
+            <sys_id>2f90377fdbf52890f4277b82399619c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>request_type</sys_name>
+            <sys_package display_value="Marketing" source="x_359413_marketing">28bea77bdbf52890f4277b82399619ab</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Marketing">28bea77bdbf52890f4277b82399619ab</sys_scope>
+            <sys_update_name>sys_choice_x_359413_marketing_artwork_request_type</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-26 12:19:07</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>New Image from stock</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>100</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:19:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7580fb7fdbf52890f4277b82399619a6</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-26 15:39:41</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Edits on creatives</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>105</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 12:19:26</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b8a0b37fdbf52890f4277b8239961958</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 09:47:17</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>request_type</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Edits on photos</label>
+            <language>en</language>
+            <name>x_359413_marketing_artwork</name>
+            <sequence>108</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2021-01-26 15:41:23</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c9ced08cdb4a2890f4277b823996194a</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2021-01-27 09:47:06</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Artwork">68fee73fdbf52890f4277b82399619de</application>
+        <assessment/>
+        <content_page/>
+        <device_type/>
+        <filter table="x_359413_marketing_artwork">assignment_group=javascript:getMyGroups()^EQ<item endquery="false" field="assignment_group" goto="false" newquery="false" operator="=" or="false" value="javascript:getMyGroups()"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint>155</hint>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>Assigned to my group</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_359413_marketing_artwork</name>
+        <order>200</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles/>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-26 13:30:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>56a04448db0a2890f4277b82399619cb</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Assigned to my group</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Marketing" source="x_359413_marketing">28bea77bdbf52890f4277b82399619ab</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing">28bea77bdbf52890f4277b82399619ab</sys_scope>
+        <sys_update_name>sys_app_module_56a04448db0a2890f4277b82399619cb</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-26 14:13:03</sys_updated_on>
+        <timeline_page/>
+        <title>Assigned to my group</title>
+        <uncancelable>false</uncancelable>
+        <view_name>list</view_name>
+        <window_name/>
+    </sys_app_module>
+</record_update>
